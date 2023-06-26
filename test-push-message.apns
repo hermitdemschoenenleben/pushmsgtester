@@ -1,0 +1,8 @@
+{
+  "Simulator Target Bundle": "com.pushmessage.tester",
+  "aps": {
+    "alert": "A notification!",
+    "sound": "default",
+    "badge": 1,
+  },
+}
